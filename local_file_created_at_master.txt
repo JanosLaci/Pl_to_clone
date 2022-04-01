@@ -1,1 +1,3 @@
 created a file locally at master
+
+adding new feature after branching AND checking out new-feature
